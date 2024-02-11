@@ -6,3 +6,5 @@
 A crypto wallet manager from the core
 
 ⚠️ WIP, under construction but public to share the journey.
+`Currently moving to PySide6 (Qt)`
+
